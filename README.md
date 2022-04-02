@@ -1,7 +1,3 @@
-# flutter_dev_case_anila
-
-Appinio Flutter Dev Case (Anila Hoxha)
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
